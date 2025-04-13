@@ -30,3 +30,20 @@ data: Text.
 
 
 ##  Table Structures
+
+##  Student Table
+![studstrucf2](https://github.com/user-attachments/assets/4496c468-9893-4b33-a4ed-2b42083f7d8d)
+
+
+## Assignment Table
+![assignstruc](https://github.com/user-attachments/assets/42fb996d-d0a6-479f-ba62-12e38d0341b3)
+
+
+## Submission Table
+![submissiontblf22struc](https://github.com/user-attachments/assets/84f1e146-3d41-4b47-a7a2-a1291feea5fd)
+
+## ER Diagram
+![erdfn2 jpg](https://github.com/user-attachments/assets/73f75846-8a82-4b82-97be-b1332ba67043)
+
+
+
