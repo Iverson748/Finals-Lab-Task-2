@@ -13,4 +13,18 @@ version: Integer, represents the version of the submission.
 submit\_date: Date, cannot be null.
 data: Text.
 ## Note: Create the appropriate table relationship and enforce necessary REFERENTIAL INTEGRITY CONSTRAINTS
+
 ## Query Statements
+
+Student Table
+![studstatef2](https://github.com/user-attachments/assets/889e1346-82df-4695-9e8f-3a2568a8226c)
+
+
+Assignment Table
+![assignstatef2](https://github.com/user-attachments/assets/bc2aba0f-b548-40e1-85dd-2feae888dc56)
+
+
+
+Submission Table
+![substatefn2](https://github.com/user-attachments/assets/f6281903-8a1e-46dd-a220-74105fd040f3)
+
